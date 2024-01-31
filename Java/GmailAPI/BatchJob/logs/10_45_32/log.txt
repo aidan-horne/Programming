@@ -1,0 +1,92 @@
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Starting process
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for 2d.maas360
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for 2d.maas360 with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for aidancapellanz
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for aidancapellanz with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for aucklandeye.recovery
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for aucklandeye.recovery with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for aucklandeye.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for aucklandeye.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for batchjobmaster
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for batchjobmaster with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for BlindLowVision.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for BlindLowVision.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for capellaintegration.m4
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for capellaintegration.m4 with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for capintegation
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for capintegation with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for careoncall.recovery
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for careoncall.recovery with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for careoncall.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for careoncall.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for fmg.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for fmg.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for mdm.salvation.army
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for mdm.salvation.army with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for miq.south
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for miq.south with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for nzhg.miq
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for nzhg.miq with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for nzpost.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for nzpost.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for RenaissanceGroup.recovery
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for RenaissanceGroup.recovery with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for RenaissanceGroup.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for RenaissanceGroup.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for techsafe.presbyterian.mdm
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for techsafe.presbyterian.mdm with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for tekohangareoMDM
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for tekohangareoMDM with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for tepapa.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for tepapa.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for uoc.techsafe
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for uoc.techsafe with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Getting authentication token for victimNZ.mdm
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Building email for victimNZ.mdm with their access token
+Nov 16, 2023 10:45:33 AM GmailSendMail main
+INFO: Sent email to 22 inboxes out of 22 inboxes

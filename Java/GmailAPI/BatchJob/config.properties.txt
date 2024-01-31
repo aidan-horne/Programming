@@ -1,0 +1,3 @@
+# config.properties
+credentials.directory=./src/main/resources/keys
+tokens.directory=./src/main/resources/tokens

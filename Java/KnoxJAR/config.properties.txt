@@ -1,0 +1,3 @@
+# config.properties
+private.keys.directory=./input/keys/
+infile=./input/inputfile.txt

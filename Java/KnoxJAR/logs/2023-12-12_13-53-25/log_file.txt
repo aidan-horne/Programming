@@ -1,0 +1,78 @@
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Starting process
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Capella Consulting Ltd.
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Auckland Eye
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Renaissance Group
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for 
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Te Kohanga Reo
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for 
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for NZHG MIQ
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for 
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Tai Poutini Polytechnic
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for McLarens NZ
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Te Rito Maioha Early Childhood New Zealand
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Getting device list with the open connection
+Dec 12, 2023 1:53:25 PM KnoxJAR generateLog
+INFO: Successfully got all devices for Salvation Army NZ

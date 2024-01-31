@@ -1,0 +1,37 @@
+<!-- activity_main.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AccelerometerLockActivity">
+
+    <!-- Accelerometer Lock Button -->
+    <Button
+        android:id="@+id/btnToggleLock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:onClick="toggleLock"
+        android:text="Toggle Lock" />
+
+    <!-- Status TextView -->
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnToggleLock"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Status: Inactive" />
+
+    <!-- Toggle Code Button -->
+    <Button
+        android:id="@+id/btnToggleCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvStatus"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Toggle Code"
+        android:onClick="toggleCode"/>
+</RelativeLayout>

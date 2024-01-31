@@ -1,0 +1,234 @@
+08-09-2023 13:52:43.706 | Security event payload: {"payload":{"events":[{"identity":[{"domain":"healthcarenz.co.nz","email":"kahu.testphone@healthcarenz.co.nz","identityClass":"individual","name":"kahu.testphone","userName":"kahu.testphone"},{"identifier":"Android23afd93e312a11aa","identifierType":"endpoint","identityClass":"endpoint","name":"kahu.testphone-SM-A235F"}],"sightings":[{"courseOfAction":[{"actionTime":1691545963687,"coaBy":"Android23afd93e312a11aa","coaByType":"endpoint","coaLabel":"DELETE_EVENT","sightingStatus":"DEL"}],"observedData":[],"sighting":{"created":1691545963687,"id":"Android23afd93e312a11aa-5963687","indicatorLabel":"RESET_ALL","policyId":0,"policyVersion":0}}]}]}}
+
+08-09-2023 13:52:44.072 | MTD: SecurityEventResource : App permission reset successful
+
+08-09-2023 13:52:44.095 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:52:46.059 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:52:48.462 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:52:48.509 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:52:59.072 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:52:59.943 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:53:03.917 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:53:18.184 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:53:18.311 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 13:56:26.454 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 14:08:34.548 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 14:09:27.591 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 14:59:09.959 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 14:59:10.002 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 15:57:02.901 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 15:57:02.936 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 17:25:04.343 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 17:25:04.360 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 19:12:47.983 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-09-2023 23:54:18.855 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:38:10.999 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:38:11.348 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:18.136 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:26.126 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:30.105 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:38.260 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:41.849 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:50.488 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:39:55.390 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:40:07.324 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:40:11.267 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:40:16.698 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:40:20.547 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 09:40:45.023 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 10:44:11.566 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 10:44:11.595 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 11:44:49.764 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 11:44:49.785 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 12:57:07.483 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 13:25:49.637 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 13:27:53.413 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 13:27:53.473 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:02:11.689 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:02:11.727 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:03:30.846 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:03:30.906 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:03:47.839 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:03:47.891 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:07:14.400 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 14:07:14.468 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 15:09:14.725 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 15:09:14.747 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 16:09:53.862 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 16:09:53.883 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 17:36:16.243 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 17:36:16.261 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 17:40:25.453 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 17:40:25.544 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 17:41:34.826 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-16-2023 17:41:34.888 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 09:57:36.362 | error received: reqId=DATA_UPLOAD_0, error=0 Upload failed with code 
+
+08-17-2023 09:57:41.532 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 09:57:58.530 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 09:58:17.481 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 09:58:17.556 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 10:59:21.126 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 10:59:21.158 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 12:04:08.152 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 14:04:41.720 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 15:10:28.117 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 16:35:15.060 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 16:35:15.083 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 18:05:12.435 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 18:05:12.449 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 23:59:12.336 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-17-2023 23:59:12.375 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 00:00:35.771 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 00:00:35.850 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 09:54:27.754 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 09:54:27.808 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 09:54:31.231 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 09:54:31.376 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 10:33:37.178 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 10:33:37.210 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 10:33:53.812 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 11:41:16.999 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 11:41:17.022 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 13:28:20.837 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 13:28:20.873 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 15:15:53.699 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 15:15:54.827 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 15:42:49.582 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 15:43:00.036 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 15:43:00.104 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-18-2023 15:43:29.227 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:14:58.588 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:14:58.671 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:03.083 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:03.092 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:03.688 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:05.974 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:14.722 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:14.944 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:17.357 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 09:15:17.464 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 10:16:32.027 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 10:16:32.069 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 10:53:51.587 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 10:54:03.819 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 11:15:45.134 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 11:15:45.168 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 12:15:45.449 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 12:15:45.469 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 13:15:57.482 | Upload successful for reqId: DATA_UPLOAD_0
+
+08-23-2023 13:15:57.508 | Upload successful for reqId: DATA_UPLOAD_0
+

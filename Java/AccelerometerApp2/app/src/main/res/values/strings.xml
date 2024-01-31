@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccelerometerApp</string>
+    <string name="toggle_lock">Toggle Lock</string>
+    <string name="device_admin_receiver">Device Admin Receiver</string>
+    <string name="device_admin_description">Device Admin Receiver Description</string>
+
+</resources>
