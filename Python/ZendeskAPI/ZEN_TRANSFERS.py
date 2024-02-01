@@ -19,8 +19,8 @@ cursor = connection.cursor()
 
 ticket_ids = []
 current_val = "x"
-# while len(current_val) != 0 or current_val is not None:
-cursor.execute("SELECT TICKETID FROM ZEN_TICKETS")
+# cursor.execute("SELECT TICKETID FROM ZEN_TICKETS")
+cursor.execute("SELECT TICKETID FROM ZEN_TICKETS WHERE DATECREATED BETWEEN DATEADD(MONTH, -3, GETDATE()) AND GETDATE();")
 all_ids = cursor.fetchall()
 for i in range(len(all_ids)):
     all_ids[i] = all_ids[i][0]
@@ -71,14 +71,14 @@ while url is not None:
 
                                             connection.commit()
                                         except pyodbc.IntegrityError:
+                                            count += 1
+                                            url = f"https://capellasupport.zendesk.com/api/v2/tickets/{all_ids[count]}/audits"
                                             pass
                         except TypeError:
                             count += 1
                             url = f"https://capellasupport.zendesk.com/api/v2/tickets/{all_ids[count]}/audits"
-                            print(f"Gathering information from ticket: {all_ids[count]}")
 
         except AttributeError:
-            print(f"Skipping ticket {all_ids[count]}")
             count += 1
             url = f"https://capellasupport.zendesk.com/api/v2/tickets/{all_ids[count]}/audits"
-            print(f"Gathering information from ticket: {all_ids[count]}") 
+            print(count)
